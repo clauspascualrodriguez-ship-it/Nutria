@@ -1,0 +1,6 @@
+{
+  "name": "Nutria - Planificador Inteligente de Compras y Menús",
+  "description": "Come rico, gasta mejor y deja que Nutria se encargue del resto. Planifica tus compras, controla tu presupuesto, organiza menús semanales y reduce el desperdicio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

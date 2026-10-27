@@ -1,0 +1,16 @@
+{
+	"appId": "com.nutria.app",
+	"appName": "Nutria",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	},
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 2000,
+			"backgroundColor": "#FFF9F0",
+			"showSpinner": false
+		}
+	},
+	"packageClassList": []
+}
